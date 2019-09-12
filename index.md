@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Installie en Configuratie
+# Installatie en Configuratie
 
 ## Algemeen
 
