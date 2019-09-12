@@ -3,11 +3,13 @@ layout: default
 ---
 # Installie en Configuratie
 
-Algemene richtlijnen:
+## Algemeen
 
 * Laat de installer van elk programma zelf kiezen waar het programma geïnstalleerd wordt.
   In het verleden wijzigden studenten dit en zorgde dit voor heel wat problemen.
 * Kies steeds voor de recentste 64 bit versie.
+
+## Stappenplan
 
 Voor deze stappen in volgorde uit:
 
