@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Visual Studio Code
 
 ## Windows
