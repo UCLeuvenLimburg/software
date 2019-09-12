@@ -1,3 +1,3 @@
 # Benodigde Software
 
-[Lees hier verder](/index.md)
+[Lees hier verder](https://ucleuvenlimburg.github.io/software/)
