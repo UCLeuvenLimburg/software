@@ -15,5 +15,6 @@ Voor deze stappen in volgorde uit:
 2. [Git](/git/index.md)
 3. [GitHub](/github/index.md)
 4. [NodeJS](/nodejs/index.md)
-5. [IntelliJ](/intellij/index.md)
-6. [Python](/python/index.md)
+5. [Chrome](https://www.google.com/chrome/)
+6. [IntelliJ](/intellij/index.md)
+7. [Python](/python/index.md)
