@@ -16,7 +16,7 @@
 title: Software
 email: frederic.vogels@ucll.be
 description: >- # this means to ignore newlines until "baseurl:"
-  Softwareinstallatie instructies
+  Installatie-instructies
 baseurl: "/software" # the subpath of your site, e.g. /blog
 url: "https://ucleuvenlimburg.github.io/software/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fvogels
