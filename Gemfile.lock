@@ -35,7 +35,7 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
-    jekyll-theme-leap-day (0.1.1)
+    jekyll-theme-midnight (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
@@ -78,7 +78,7 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-relative-links
-  jekyll-theme-leap-day
+  jekyll-theme-midnight
   minima (~> 2.0)
   tzinfo-data
   wdm (~> 0.1.0)
