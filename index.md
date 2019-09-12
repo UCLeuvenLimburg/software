@@ -20,3 +20,5 @@ Voor deze stappen in volgorde uit:
 5. [Chrome](https://www.google.com/chrome/)
 6. [IntelliJ](/intellij/index.md)
 7. [Python](/python/index.md)
+8. [FileZilla](https://filezilla-project.org/download.php)
+9. [GeoGebra](/geogebra/index.md)
