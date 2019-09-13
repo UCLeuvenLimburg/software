@@ -9,14 +9,15 @@ layout: default
 
 ## Stappenplan
 
-Voor deze stappen in volgorde uit:
+Installeer de volgende software:
 
 1. [Visual Studio Code](/vscode/index.md)
-2. [Git](/git/index.md)
-3. [GitHub](/github/index.md)
-4. [NodeJS](/nodejs/index.md)
-5. [Chrome](https://www.google.com/chrome/)
-6. [IntelliJ](/intellij/index.md)
-7. [Python](/python/index.md)
-8. [FileZilla](https://filezilla-project.org/download.php)
-9. [GeoGebra](/geogebra/index.md)
+1. [Git](/git/index.md)
+1. [GitHub](/github/index.md)
+1. [NodeJS](/nodejs/index.md)
+1. [IntelliJ](/intellij/index.md)
+1. [Python](/python/index.md)
+1. [FileZilla](https://filezilla-project.org/download.php)
+1. [GeoGebra](/geogebra/index.md)
+1. [Chrome](https://www.google.com/chrome/)
+1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
