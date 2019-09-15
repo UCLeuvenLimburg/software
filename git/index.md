@@ -12,7 +12,7 @@ layout: default
    * Wees zeker dat "Git Bash Here" aangevinkt staat.
    * Kies Visual Studio Code als editor.
    * Alle andere opties kan je op hun standaard instelling laten staan.
-4. Nadat Git geïnstalleerd is, open je Windows Verkenner/Explorer.
+4. Nadat Git geïnstalleerd is, open Git Bash door het startmenu te openen en `git bash` in te typen, gevolgd door enter.
 5. Voer in:
    ```bash
    git --version
