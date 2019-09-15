@@ -21,5 +21,6 @@ Installeer de volgende software:
 1. [GeoGebra](/geogebra/index.md)
 1. [Chrome](https://www.google.com/chrome/)
 1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+1. VMWare
 
 Bij downloadproblemen, probeer deze [mirror](http://files.leone.ucll.be/software).
