@@ -23,4 +23,7 @@ Installeer de volgende software:
 1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 1. VMWare
 
-Bij downloadproblemen, probeer deze [mirror](http://files.leone.ucll.be/software).
+Bij downloadproblemen, probeer deze mirrors:
+
+* [Leone](http://files.leone.ucll.be/software)
+* [Alexander](http://alexander.khleuven.be/software)
