@@ -5,7 +5,7 @@ layout: default
 
 ## Windows
 
-1. Wees zeker dat je eerst [Visual Studio Code](/vscode/index.md) hebt geïnstalleerd.
+1. Wees zeker dat je eerst [Visual Studio Code](/software/vscode/index.md) hebt geïnstalleerd.
 2. Download [Git](https://git-scm.com/download/win). Kies voor "64-bit for Windows Setup".
 3. Start het installatieprogramma. Je krijgt tal van vensters met opties te zien.
    * Kies voor de standaard locatie.
