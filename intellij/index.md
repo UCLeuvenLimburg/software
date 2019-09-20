@@ -14,7 +14,7 @@ Download [IntelliJ](https://www.jetbrains.com/idea/download/).
 
 ## Studentenlicentie
 
-Vraag een [studentenlicentie](https://www.jetbrains.com/shop/eform/students). Gebruik hierbij je UCLL e-mailadres.
+Vraag een [studentenlicentie](https://www.jetbrains.com/shop/eform/students). Gebruik hierbij je UCLL e-mailadres (van de vorm `voornaam.familienaam@student.ucll.be`, gebruik vooral niet `rnummer@ucll.be`).
 
 ![License](license.png)
 
