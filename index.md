@@ -9,11 +9,11 @@ layout: default
 
 ## Stappenplan
 
-Installeer de volgende software:
+Installeer volgende software:
 
 1. [Visual Studio Code](/software/vscode/index.md)
 1. [Git](/software/git/index.md)
-1. [GitHub](/software/github/index.md)
+1. Maak een account aan op [GitHub](/software/github/index.md).
 1. [NodeJS](/software/nodejs/index.md)
 1. [IntelliJ](/software/intellij/index.md)
 1. [Python](/software/python/index.md)
