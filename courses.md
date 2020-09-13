@@ -17,6 +17,7 @@ layout: default
   * [IntelliJ](/software/intellij/index.md)
 * [Probleemoplossend Denken](http://onderwijsaanbod.leuven.ucll.be/syllabi/n/MBI71AN.htm)
   * [GeoGebra](/software/geogebra/index.md)
+  * Scilab
 * [Webontwikkeling 1](http://onderwijsaanbod.leuven.ucll.be/syllabi/n/MBI65XN.htm)
   * [Visual Studio Code](/software/vscode/index.md)
   * [FileZilla](https://filezilla-project.org/download.php)
