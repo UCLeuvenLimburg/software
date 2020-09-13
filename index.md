@@ -19,6 +19,7 @@ Installeer volgende software:
 1. [Python](/software/python/index.md)
 1. [FileZilla](https://filezilla-project.org/download.php)
 1. [GeoGebra](/software/geogebra/index.md)
+1. [Scilab](https://www.scilab.org/)
 1. [Chrome](https://www.google.com/chrome/)
 1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 1. [VMWare](/software/vmware/index.md)
