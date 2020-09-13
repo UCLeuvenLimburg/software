@@ -12,16 +12,17 @@ layout: default
 Installeer volgende software:
 
 1. [Visual Studio Code](/software/vscode/index.md)
-1. [Git](/software/git/index.md)
-1. Maak een account aan op [GitHub](/software/github/index.md).
-1. [NodeJS](/software/nodejs/index.md)
-1. [IntelliJ](/software/intellij/index.md)
-1. [Python](/software/python/index.md)
-1. [FileZilla](https://filezilla-project.org/download.php)
-1. [GeoGebra](/software/geogebra/index.md)
-1. [Scilab](https://www.scilab.org/)
-1. [Chrome](https://www.google.com/chrome/)
-1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-1. [VMWare](/software/vmware/index.md)
+2. [Git](/software/git/index.md)
+3. Maak een account aan op [GitHub](/software/github/index.md).
+4. [NodeJS](/software/nodejs/index.md)
+5. [Java SE Development Kit 14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
+6. [IntelliJ](/software/intellij/index.md)
+7. [Python](/software/python/index.md)
+8. [FileZilla](https://filezilla-project.org/download.php)
+9. [GeoGebra](/software/geogebra/index.md)
+10. [Scilab](https://www.scilab.org/)
+11. [Chrome](https://www.google.com/chrome/)
+12. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+13. [VMWare](/software/vmware/index.md)
 
 Bij downloadproblemen, probeer deze [mirror](http://files.leone.ucll.be/software).
