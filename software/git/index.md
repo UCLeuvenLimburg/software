@@ -17,7 +17,7 @@ layout: default
    ```bash
    git --version
    ```
-   Dit zou `git version 2.23.0.windows.1` moeten weergeven, waarbij het versienummer mogelijk wat verschilt.
+   Dit zou `git version 2.28.0.windows.1` moeten weergeven, waarbij het versienummer mogelijk wat verschilt.
    Je wil vooral niet `command not found` zien tevoorschijn komen.
 6. Voer in:
    ```bash
