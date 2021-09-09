@@ -15,7 +15,7 @@ Installeer volgende software:
 2. [Git](/software/git/index.md)
 3. Maak een account aan op [GitHub](/software/github/index.md).
 4. [NodeJS](/software/nodejs/index.md)
-5. [Java SE Development Kit 14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
+5. [Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
 6. [IntelliJ](/software/intellij/index.md)
 7. [Python](/software/python/index.md)
 8. [FileZilla](https://filezilla-project.org/download.php)
