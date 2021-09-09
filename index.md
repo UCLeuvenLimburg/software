@@ -24,5 +24,3 @@ Installeer volgende software:
 11. [Chrome](https://www.google.com/chrome/)
 12. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 13. [VMWare](/software/vmware/index.md)
-
-Bij downloadproblemen, probeer deze [mirror](http://files.leone.ucll.be/software).
