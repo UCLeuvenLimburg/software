@@ -23,3 +23,4 @@ Installeer volgende software:
 10. [Scilab](https://www.scilab.org/)
 11. [Chrome](https://www.google.com/chrome/)
 12. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+13. [TerraER](/software/terra-er/index.md)
