@@ -21,3 +21,6 @@ Volg deze instructies (kan ook bekeken worden als [Youtube filmpje](https://www.
 1. [Download Visual Studio Code](https://code.visualstudio.com/). Kies hierbij voor de Stable build.
 2. Dubbelklik op het gedownloade archief.
 3. Sleep `Visual Studio Code.app` naar de Applications folder.
+
+
+TODO Extensies laten installeren? Voor Prog1 is er dacht'k alvast een (Dodona). Alsook voor Git/GitHub.
