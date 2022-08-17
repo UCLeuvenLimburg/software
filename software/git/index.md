@@ -49,3 +49,7 @@ layout: default
    git config --global user.name "Jan Janssens"
    ```
    waarbij je je eigen naam invult tussen de aanhalingstekens.
+
+
+TODO: een `git commit` uitvoeren gaat enkel als ze de config-stappen hebben uitgevoerd. Dus misschien hen ter verificatie een kleine repo laten aanmaken (`git init`), een bestand aanmaken, dat adden en committen.
+TODO: GitHub authenticatie kan ook soms problemen opleveren, is OS afhankelijk. Mac gebruikers hebben meestal extra hulp nodig (moeten werken met token als ik me goed herinner)
