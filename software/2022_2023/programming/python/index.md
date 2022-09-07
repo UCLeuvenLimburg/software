@@ -12,7 +12,8 @@ layout: default
 1. Zoek op *Apps and Features* (of *Apps en Onderdelen*) in het start-menu, open dit scherm
 1. Klik op *Manage app execution aliases* (of *Aliassen voor app-uitvoering*)
 1. Zet de checkbox achter de App-installatieprogramma's `python.exe` en `python3.exe` uit
-1. Open PowerShell door te zoeken in het start-menu en tik `python`, controleer dat je output is zoals op de onderstaande screenshot. Je wil niet dat de Windows store opent.
+1. Open PowerShell door in de zoekbalk van het start-menu PowerShell te typen
+1. Tik `python` in PowerShell, controleer dat je output is zoals op de onderstaande screenshot. Je wil niet dat de Windows store opent.
 
     <a href="./python_not_found.png" target="_blank">
         <img src="./python_not_found.png">
