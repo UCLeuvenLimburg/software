@@ -15,13 +15,13 @@ layout: default
 
 Installeer alle software opgelijst op volgende pagina's:
 
-1. [Python & Git](./software/2022_2023/programming/index.md)
-1. [Code Editors](./software/2022_2023/code_editors/index.md)
-1. [Tools](./software/2022_2023/tools/index.md)
-1. [Browsers](./software/2022_2023/browsers/index.md)
+1. [Python & Git](./programming/index.md)
+1. [Code Editors](./code_editors/index.md)
+1. [Tools](./tools/index.md)
+1. [Browsers](./browsers/index.md)
 
 Installeer deze software als je ze nuttig vindt:
 
-1. [WSL & Microsoft Office](./software/2022_2023/extra/index.md)
+1. [WSL & Microsoft Office](./extra/index.md)
 
 Terwijl je de software installeert heb je de kans om wat weetjes en extra informatie te lezen onder de **Trivia** hoofdingen. We hopen dat deze je nieuwsgierig maken naar alles dat je het komende academiejaar te wachten staat!
