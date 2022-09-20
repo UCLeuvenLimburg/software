@@ -15,8 +15,8 @@ layout: default
 
 Installeer alle software opgelijst op volgende pagina's:
 
-1. [Python & Git](./software/2022_2023/programming/index.md)
 1. [Code Editors](./software/2022_2023/code_editors/index.md)
+1. [Python & Git](./software/2022_2023/programming/index.md)
 1. [Tools](./software/2022_2023/tools/index.md)
 1. [Browsers](./software/2022_2023/browsers/index.md)
 
